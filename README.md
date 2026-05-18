@@ -8,13 +8,9 @@ A plugin for [EXILED](https://github.com/ExMod-Team/EXILED) that allows players 
 
 - Single key to bind and unbind — press once to bind, press again to unbind
 - Works on any player regardless of team, including teammates
-- Binding is blocked at distances greater than 1.55m
 - Target must have empty hands to be bound
 - SCPs cannot be bound
 - Binding key is displayed at the bottom of the Server Specific Settings menu
-- All UI text is fully translatable via config
-- Does not interfere with hints from other plugins
-
 ---
 
 ## Requirements
